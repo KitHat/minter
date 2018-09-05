@@ -1,2 +1,0 @@
-python3-indy==1.6.1
-aiohttp==3.4.2
